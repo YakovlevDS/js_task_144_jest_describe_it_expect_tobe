@@ -3,12 +3,12 @@ const randomInt = require('./task/task_03');
 describe("Тестируем случайное число", () => {
     const testCases = [
         {
-          from : 100,
-          to : 110, 
+          from : 10,
+          to : 100, 
         },
         {
-          from : 200,
-          to : 201, 
+          from : 2000,
+          to : 3000, 
         }
       ];
 
